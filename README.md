@@ -209,6 +209,3 @@ Features:
 - **Platform Abstraction** - Cross-platform compatibility
 - **Benchmarking** - Performance measurement and comparison
 
-## License
-
-MIT
