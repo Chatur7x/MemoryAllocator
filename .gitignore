@@ -1,0 +1,14 @@
+build/
+bin/
+*.o
+*.a
+*.so
+*.dylib
+benchmark_results.json
+*.log
+*.exe
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
